@@ -7,6 +7,7 @@ import {
   faPhone,
   faClock,
 } from "@fortawesome/free-solid-svg-icons";
+import background from "./background.jpg";
 
 const ContactForm = () => {
   const [formData, setFormData] = useState({
@@ -28,7 +29,10 @@ const ContactForm = () => {
   };
 
   return (
-    <div className="contact-section">
+    <div
+      className="contact-section"
+      style={{ backgroundImage: `url(${background})` }}
+    >
       <div className="contact-info">
         <div>
           <FontAwesomeIcon icon={faMapMarkerAlt} /> Address, City, Country

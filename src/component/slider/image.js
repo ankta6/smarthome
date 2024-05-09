@@ -1,22 +1,22 @@
 const images = [
   {
     imgURL:
-      "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQErICOMHs04MP83sRSiOR6KWKQqRpk9_Yv7w&s",
     imgAlt: "img-1",
   },
   {
     imgURL:
-      "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "https://images.pexels.com/photos/6436747/pexels-photo-6436747.jpeg?auto=compress&cs=tinysrgb&w=600",
     imgAlt: "img-2",
   },
   {
     imgURL:
-      "https://images.pexels.com/photos/1128678/pexels-photo-1128678.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&w=600",
     imgAlt: "img-3",
   },
   {
     imgURL:
-      "https://images.pexels.com/photos/54455/cook-food-kitchen-eat-54455.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxjyduyyBNphZ0ETy0n0_4yASMGpZsraaI_NNpdoXjFdjfs6ax6ffbJiZYIXYUVpAcrmo&usqp=CAU",
     imgAlt: "img-4",
   },
 ];

@@ -1,0 +1,45 @@
+.idea {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+.ideas-ideas {
+  width: 300px;
+  margin-bottom: 30px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.heading-idea {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.para-idea {
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+/* Responsive layout */
+@media only screen and (max-width: 768px) {
+  .ideas-ideas {
+    width: 45%;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .ideas-ideas {
+    width: 100%;
+  }
+}
